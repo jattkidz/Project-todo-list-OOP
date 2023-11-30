@@ -1,0 +1,22 @@
+[
+    {
+        "task": "tugas praktikum 7",
+        "completed": true
+    },
+    {
+        "task": "tugas praktikum 4",
+        "completed": true
+    },
+    {
+        "task": "tugas praktikum 2",
+        "completed": false
+    },
+    {
+        "task": "tugas praktikum 1",
+        "completed": false
+    },
+    {
+        "task": "tugas praktikum 3",
+        "completed": false
+    }
+]
